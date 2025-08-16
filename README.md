@@ -47,6 +47,8 @@ For the scripts to work correctly, the dataset must be organized in the followin
 
 ## 🚀 Usage
 
+IMPORTANT NOTE: To ensure full authenticity, this repository contains the exact notebooks used for the research. The training process (detectarim_cnn_explicavel.ipynb) must be run manually for each of the 12 configurations (6 models x 2 dataset types) by adjusting the model_name and USE_WAVELET_DATASET variables in the configuration cells for each run
+
 The project is divided into two main notebooks:
 
 ### Step 1: Individual Training and Evaluation (`detectarim_cnn_explicavel.ipynb`)
