@@ -11,6 +11,8 @@ seaborn==0.13.2
 tqdm==4.67.1
 jupyter==1.0.0
 notebook==6.5.7
+transformers
+accelerate
 
 # Nota: As versões de torch/torchvision podem precisar ser ajustadas
 #       dependendo do ambiente CUDA do usuário.
