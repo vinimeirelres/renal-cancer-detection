@@ -8,9 +8,7 @@
 
 ---
 
-This repository contains the source code and analysis scripts for the paper  
-**"Impact of Wavelet Pre-processing on Deep Learning Architectures for Renal Cancer Diagnosis"**,  
-published in *Revista de Informática Teórica e Aplicada (RITA)*.
+This repository contains the source code and analysis scripts for the paper **"Impact of Wavelet Pre-processing on Deep Learning Architectures for Renal Cancer Diagnosis"**, published in *Revista de Informática Teórica e Aplicada (RITA)*.
 
 The study performs a systematic comparison of Deep Learning architectures (CNNs and Vision Transformers) with and without wavelet-based pre-processing.
 
